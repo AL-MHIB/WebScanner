@@ -23,6 +23,7 @@ It supports multiple modules to detect a wide range of web security issues such 
 - ✅ Honeypot Detection
 
 ---
+![image](https://github.com/user-attachments/assets/c19087fd-5b14-4539-a74e-7629a0c04eb0)
 
 ## 🧰 Built With
 
@@ -32,3 +33,4 @@ This tool uses several Python libraries:
 requests, urllib.parse, BeautifulSoup, tkinter, threading,
 datetime, random, os, time, re, webbrowser, json, socket,
 ssl, dns.resolver, hashlib, ipaddress, urllib3, difflib, warnings
+
